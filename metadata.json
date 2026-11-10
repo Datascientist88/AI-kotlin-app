@@ -1,0 +1,6 @@
+{
+  "name": "DSAH AI",
+  "description": "Multimodal Visual Medical Diagnostic & Conversational Assistant for Dr. Samir Abbas Hospital",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
